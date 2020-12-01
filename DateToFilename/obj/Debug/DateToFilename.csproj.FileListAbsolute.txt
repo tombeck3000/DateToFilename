@@ -1,0 +1,15 @@
+C:\Users\beckt\AppData\Local\Temporary Projects\DateToFilename\bin\Debug\DateToFilename.exe.config
+C:\Users\beckt\AppData\Local\Temporary Projects\DateToFilename\bin\Debug\DateToFilename.exe
+C:\Users\beckt\AppData\Local\Temporary Projects\DateToFilename\bin\Debug\DateToFilename.pdb
+C:\Users\beckt\AppData\Local\Temporary Projects\DateToFilename\obj\Debug\DateToFilename.csprojAssemblyReference.cache
+C:\Users\beckt\AppData\Local\Temporary Projects\DateToFilename\obj\Debug\MainWindow.g.cs
+C:\Users\beckt\AppData\Local\Temporary Projects\DateToFilename\obj\Debug\App.g.cs
+C:\Users\beckt\AppData\Local\Temporary Projects\DateToFilename\obj\Debug\DateToFilename_MarkupCompile.cache
+C:\Users\beckt\AppData\Local\Temporary Projects\DateToFilename\obj\Debug\DateToFilename_MarkupCompile.lref
+C:\Users\beckt\AppData\Local\Temporary Projects\DateToFilename\obj\Debug\MainWindow.baml
+C:\Users\beckt\AppData\Local\Temporary Projects\DateToFilename\obj\Debug\DateToFilename.g.resources
+C:\Users\beckt\AppData\Local\Temporary Projects\DateToFilename\obj\Debug\DateToFilename.Properties.Resources.resources
+C:\Users\beckt\AppData\Local\Temporary Projects\DateToFilename\obj\Debug\DateToFilename.csproj.GenerateResource.cache
+C:\Users\beckt\AppData\Local\Temporary Projects\DateToFilename\obj\Debug\DateToFilename.csproj.CoreCompileInputs.cache
+C:\Users\beckt\AppData\Local\Temporary Projects\DateToFilename\obj\Debug\DateToFilename.exe
+C:\Users\beckt\AppData\Local\Temporary Projects\DateToFilename\obj\Debug\DateToFilename.pdb
